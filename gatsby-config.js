@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Gatsby Starter Personal Blog`,
-    author: `Kyle Matthews`,
-    description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
+    title: `AWS Lambda Pitfalls`,
+    author: `Michel Schreurs`,
+    description: `Tips regarding common pitfalls I've encountered using AWS Lamba.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `sjreuder`,
     },
   },
   plugins: [
